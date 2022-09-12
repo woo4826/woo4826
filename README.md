@@ -43,9 +43,9 @@
   <br>
   <br>
   <br>
-![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's Coding Life)
 
 </p>
+![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's Coding Life)
 
 <!--
 **woo4826/woo4826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
