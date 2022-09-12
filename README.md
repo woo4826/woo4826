@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's Coding Life)
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -43,6 +41,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
+  <br>
+  <br>
+![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's Coding Life)
+
 </p>
 
 <!--
