@@ -44,5 +44,6 @@
   <br>
   <br>
 
+![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's_Coding_Life)
+
 </p>
-![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's Coding Life)
